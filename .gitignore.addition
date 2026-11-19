@@ -1,0 +1,24 @@
+# Secrets - NEVER upload these
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local state created by the email notifier
+outputs/alert_log.csv
+
+# Notebooks / editors / OS
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local SQLite database
+data/*.db

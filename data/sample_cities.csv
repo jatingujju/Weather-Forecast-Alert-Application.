@@ -1,0 +1,7 @@
+city,country,lat,lon,timezone,scenario
+Mumbai,IN,19.0760,72.8777,Asia/Kolkata,monsoon_downpour
+Delhi,IN,28.6139,77.2090,Asia/Kolkata,heat_wave
+Chennai,IN,13.0827,80.2707,Asia/Kolkata,cyclone_storm
+Bengaluru,IN,12.9716,77.5946,Asia/Kolkata,mild_clear
+Kolkata,IN,22.5726,88.3639,Asia/Kolkata,humid_thunder
+Jaipur,IN,26.9124,75.7873,Asia/Kolkata,hot_high_uv

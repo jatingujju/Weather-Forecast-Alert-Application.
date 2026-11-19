@@ -1,0 +1,141 @@
+======================================================================
+WEATHER FORECAST & ALERT REPORT
+======================================================================
+Generated on : 2026-11-19 04:39
+Mode         : simulation (fake data, fixed demo clock)
+Cities       : Mumbai, Delhi, Chennai, Bengaluru, Kolkata, Jaipur
+
+MUMBAI (IN)   source: simulation   as of 2026-11-18 09:00 local time
+----------------------------------------------------------------------
+Now          : 27.7C (feels like 29.7C), humidity 89%, wind 3.4 m/s, Overcast and humid
+Next 48 h    : hottest 29.8C at 18 Nov 12:00, coolest 25.0C at 20 Nov 04:00
+               rain 84 mm (from 18 Nov 13:00), max chance 95%
+               strongest gust 18.1 m/s (65 km/h), thunderstorm 0 h
+
+Daily outlook (full days; hours already passed are included):
+        date  max_C  min_C  rain_mm  rain_%  gust_ms  humid_%  uv_max
+  2026-11-18   29.8   24.8     60.0    95.0     18.1     92.5     6.0
+  2026-11-19   29.2   25.1     24.3    85.0      9.9     92.7     6.0
+  2026-11-20   30.7   25.0      0.0    25.0     10.6     90.3     6.0
+  2026-11-21   31.1   25.9      0.0    25.0     10.3     89.2     6.0
+  2026-11-22   30.6   25.1      0.0    25.0     10.0     89.9     6.0
+
+Alerts:
+  [CRITICAL] Mumbai - Heavy rain: About 60 mm of rain expected in the next 24 h (limit 50 mm), starting around 18 Nov 13:00. Risk of waterlogging.
+  [WARNING] Mumbai - Strong wind gusts: Gusts up to 18.1 m/s (65 km/h) around 18 Nov 18:00 (limit 15 / 20 m/s). Secure loose objects; avoid travel on exposed roads.
+  [INFO] Mumbai - Very humid: Average humidity 93% over the next 12 h (limit 85%). It will feel muggy.
+
+DELHI (IN)   source: simulation   as of 2026-11-18 09:00 local time
+----------------------------------------------------------------------
+Now          : 33.5C (feels like 33.5C), humidity 23%, wind 2.0 m/s, Clear to partly cloudy
+Next 48 h    : hottest 43.2C at 19 Nov 15:00, coolest 25.5C at 20 Nov 04:00
+               rain 0 mm, max chance 3%
+               strongest gust 8.0 m/s (29 km/h), thunderstorm 0 h
+
+Daily outlook (full days; hours already passed are included):
+        date  max_C  min_C  rain_mm  rain_%  gust_ms  humid_%  uv_max
+  2026-11-18   41.0   24.5      0.0     3.0      7.3     25.0    10.0
+  2026-11-19   43.2   27.0      0.0     3.0      8.0     23.2    10.0
+  2026-11-20   41.5   25.5      0.0     3.0      7.7     24.8    10.0
+  2026-11-21   40.5   23.9      0.0     3.0      7.5     26.5    10.0
+  2026-11-22   38.8   23.1      0.0     3.0      7.5     28.7    10.0
+
+Alerts:
+  [CRITICAL] Delhi - Extreme heat: Temperature expected to reach 43.2C around 19 Nov 15:00 (limit 37C / 40C). Avoid outdoor work at midday and drink plenty of water.
+  [WARNING] Delhi - High UV: UV index up to 10.0 around 18 Nov 12:00 (limit 8 / 11). Use sunscreen and cover up.
+
+CHENNAI (IN)   source: simulation   as of 2026-11-18 09:00 local time
+----------------------------------------------------------------------
+Now          : 27.8C (feels like 30.2C), humidity 94%, wind 8.0 m/s, Overcast and humid
+Next 48 h    : hottest 30.2C at 18 Nov 14:00, coolest 22.4C at 19 Nov 00:00
+               rain 80 mm (from 18 Nov 15:00), max chance 98%
+               strongest gust 29.7 m/s (107 km/h), thunderstorm 6 h
+
+Daily outlook (full days; hours already passed are included):
+        date  max_C  min_C  rain_mm  rain_%  gust_ms  humid_%  uv_max
+  2026-11-18   30.2   24.7     78.4    98.0     29.7     95.0     4.0
+  2026-11-19   29.3   22.4      2.0    98.0     15.9     93.3     4.0
+  2026-11-20   29.6   24.7      0.0    40.0     16.0     93.8     4.0
+  2026-11-21   30.2   25.8      0.0    40.0     15.4     91.9     4.0
+  2026-11-22   30.6   25.6      0.0    40.0     15.8     92.1     4.0
+
+Alerts:
+  [CRITICAL] Chennai - Heavy rain: About 80 mm of rain expected in the next 24 h (limit 50 mm), starting around 18 Nov 15:00. Risk of waterlogging.
+  [CRITICAL] Chennai - Thunderstorm expected: About 6 h of thunderstorm in the next 24 h, starting around 18 Nov 16:00. Stay indoors and avoid open areas.
+  [CRITICAL] Chennai - Very strong wind gusts: Gusts up to 29.7 m/s (107 km/h) around 18 Nov 19:00 (limit 15 / 20 m/s). Secure loose objects; avoid travel on exposed roads.
+  [INFO] Chennai - Very humid: Average humidity 95% over the next 12 h (limit 85%). It will feel muggy.
+
+BENGALURU (IN)   source: simulation   as of 2026-11-18 09:00 local time
+----------------------------------------------------------------------
+Now          : 24.2C (feels like 24.2C), humidity 63%, wind 1.6 m/s, Clear to partly cloudy
+Next 48 h    : hottest 29.1C at 19 Nov 14:00, coolest 19.7C at 20 Nov 02:00
+               rain 0 mm, max chance 34%
+               strongest gust 8.3 m/s (30 km/h), thunderstorm 0 h
+
+Daily outlook (full days; hours already passed are included):
+        date  max_C  min_C  rain_mm  rain_%  gust_ms  humid_%  uv_max
+  2026-11-18   27.9   20.1      0.0     8.0      7.8     62.3     7.5
+  2026-11-19   29.1   19.9      0.0     8.0      8.3     61.9     7.5
+  2026-11-20   28.1   19.7      1.3    45.0      7.0     62.8     7.5
+  2026-11-21   28.4   19.7      0.0     8.0      7.6     61.8     7.5
+  2026-11-22   28.6   19.5      0.0     8.0      8.3     62.9     7.5
+
+Alerts:
+  None - conditions look calm.
+
+KOLKATA (IN)   source: simulation   as of 2026-11-18 09:00 local time
+----------------------------------------------------------------------
+Now          : 31.2C (feels like 37.7C), humidity 90%, wind 3.1 m/s, Overcast and humid
+Next 48 h    : hottest 34.7C at 18 Nov 15:00, coolest 27.6C at 19 Nov 01:00
+               rain 19 mm (from 18 Nov 17:00), max chance 90%
+               strongest gust 13.7 m/s (49 km/h), thunderstorm 2 h
+
+Daily outlook (full days; hours already passed are included):
+        date  max_C  min_C  rain_mm  rain_%  gust_ms  humid_%  uv_max
+  2026-11-18   34.7   27.6     18.8    90.0     13.7     91.9     8.0
+  2026-11-19   34.2   27.6      0.0    30.0      8.5     89.9     8.0
+  2026-11-20   35.0   28.1      0.0    30.0      8.0     89.1     8.0
+  2026-11-21   34.2   27.4      0.0    30.0      8.4     90.4     8.0
+  2026-11-22   33.9   27.3      0.0    30.0      8.9     90.3     8.0
+
+Alerts:
+  [WARNING] Kolkata - Rain likely: Up to 90% chance of rain in the next 12 h (limit 60%); about 19 mm in 24 h. Carry an umbrella.
+  [WARNING] Kolkata - Thunderstorm expected: About 2 h of thunderstorm in the next 24 h, starting around 18 Nov 17:00. Stay indoors and avoid open areas.
+  [WARNING] Kolkata - High UV: UV index up to 8.0 around 18 Nov 12:00 (limit 8 / 11). Use sunscreen and cover up.
+  [INFO] Kolkata - Very humid: Average humidity 90% over the next 12 h (limit 85%). It will feel muggy.
+
+JAIPUR (IN)   source: simulation   as of 2026-11-18 09:00 local time
+----------------------------------------------------------------------
+Now          : 31.7C (feels like 31.7C), humidity 31%, wind 2.6 m/s, Clear to partly cloudy
+Next 48 h    : hottest 38.5C at 18 Nov 14:00, coolest 25.3C at 19 Nov 04:00
+               rain 0 mm, max chance 3%
+               strongest gust 8.1 m/s (29 km/h), thunderstorm 0 h
+
+Daily outlook (full days; hours already passed are included):
+        date  max_C  min_C  rain_mm  rain_%  gust_ms  humid_%  uv_max
+  2026-11-18   38.5   25.2      0.0     3.0      8.1     29.9    11.5
+  2026-11-19   38.2   25.3      0.0     3.0      7.7     29.9    11.5
+  2026-11-20   38.2   25.6      0.0     3.0      7.9     30.2    11.5
+  2026-11-21   38.0   26.1      0.0     3.0      7.9     30.0    11.5
+  2026-11-22   38.2   25.9      0.0     3.0      7.7     29.4    11.5
+
+Alerts:
+  [CRITICAL] Jaipur - Extreme UV: UV index up to 11.5 around 18 Nov 12:00 (limit 8 / 11). Use sunscreen and cover up.
+  [WARNING] Jaipur - High temperature: Temperature expected to reach 38.5C around 18 Nov 14:00 (limit 37C / 40C). Avoid outdoor work at midday and drink plenty of water.
+
+======================================================================
+ALERT SUMMARY
+======================================================================
+Total alerts : 15  (critical 6, warning 6, info 3)
+
+Thresholds used:
+  Heat            warning 37C, critical 40C (next 48 h)
+  Rain            chance >= 60% (next 12 h); heavy rain >= 50 mm (next 24 h)
+  Wind gusts      warning 15 m/s, critical 20 m/s (next 24 h)
+  Humidity        average >= 85% (next 12 h)
+  UV index        warning 8, critical 11 (rest of today)
+  Thunderstorm    any in next 24 h; critical from 3 h
+
+Notes:
+  - Simulated data: illustrative scenario, not a real forecast.
+======================================================================

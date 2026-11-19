@@ -1,0 +1,110 @@
+{
+ "cod": "200",
+ "cnt": 4,
+ "list": [
+  {
+   "dt": 1794996000,
+   "main": {
+    "temp": 34.0,
+    "feels_like": 35.0,
+    "humidity": 80
+   },
+   "weather": [
+    {
+     "id": 800,
+     "main": "x",
+     "description": "clear sky"
+    }
+   ],
+   "wind": {
+    "speed": 7.0,
+    "deg": 200,
+    "gust": 8.0
+   },
+   "pop": 0.05,
+   "dt_txt": "ignored"
+  },
+  {
+   "dt": 1795006800,
+   "main": {
+    "temp": 29.0,
+    "feels_like": 30.0,
+    "humidity": 80
+   },
+   "weather": [
+    {
+     "id": 501,
+     "main": "x",
+     "description": "moderate rain"
+    }
+   ],
+   "wind": {
+    "speed": 7.0,
+    "deg": 200,
+    "gust": 10.0
+   },
+   "pop": 0.8,
+   "dt_txt": "ignored",
+   "rain": {
+    "3h": 6.5
+   }
+  },
+  {
+   "dt": 1795017600,
+   "main": {
+    "temp": 27.0,
+    "feels_like": 28.0,
+    "humidity": 80
+   },
+   "weather": [
+    {
+     "id": 211,
+     "main": "x",
+     "description": "thunderstorm"
+    }
+   ],
+   "wind": {
+    "speed": 7.0,
+    "deg": 200,
+    "gust": 17.0
+   },
+   "pop": 0.95,
+   "dt_txt": "ignored",
+   "rain": {
+    "3h": 12.0
+   }
+  },
+  {
+   "dt": 1795028400,
+   "main": {
+    "temp": 26.0,
+    "feels_like": 27.0,
+    "humidity": 80
+   },
+   "weather": [
+    {
+     "id": 802,
+     "main": "x",
+     "description": "scattered clouds"
+    }
+   ],
+   "wind": {
+    "speed": 7.0,
+    "deg": 200,
+    "gust": 9.0
+   },
+   "pop": 0.2,
+   "dt_txt": "ignored"
+  }
+ ],
+ "city": {
+  "id": 1,
+  "name": "Pune",
+  "coord": {
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "country": "IN",
+  "timezone": 19800
+ }
+}
